@@ -323,10 +323,10 @@
 
 
     .tablet-element {
-      display: none !important;
+      display: none ;
     }
     .desktop-element {
-      display: none !important;
+      display: none;
     }
     .mobile-element {
       display: block;
@@ -1060,7 +1060,7 @@ margin: 15px 0 0 0;
     display: none;
   }
   .tablet-element {
-    display: block !important;
+    display: block ;
   }
   
 /* 1 */
@@ -1317,7 +1317,7 @@ padding: 60px 80px 70px 80px;
   }
 
   .desktop-element{
-    display: block !important;
+    display: block;
   }
 
   .front-page-profession {
